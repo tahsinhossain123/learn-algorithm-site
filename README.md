@@ -20,6 +20,7 @@ Understanding complex algorithms can be challenging. Simply reading the code can
 ## Technologies Used
 
 - React
+- C++
 - JavaScript
 - CSS
 - HTML
